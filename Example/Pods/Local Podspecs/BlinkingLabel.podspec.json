@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of BlinkingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Satheesh503649/BlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Satheesh503649": "satheeshkumar.psgtech@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Satheesh503649/BlinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkingLabel/Classes/**/*"
+}
